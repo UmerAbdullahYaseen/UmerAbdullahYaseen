@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @UmerAbdullahYaseen
-- 👀 I’m interested in Web, Application development.
-- 🌱 I’m currently learning MERN Stack.
+- 👀 I’m interested in Web and application development.
 - 💞️ I’m looking to collaborate on a project. 
 - 📫 My email is umerabdillah6223@gmail.com
+-    Oulu, Finland
+-    Masters In Computer Science and Engineering (AI)
