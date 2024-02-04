@@ -1,4 +1,4 @@
-## Umer Abdullah | MERN Stack Developer 🚀 | Software Developer | Masters in CSE | Oracle CRM|CX Development
+## Umer Abdullah | Machine Learning and Deep Learning, Natural Language Processing, Data Analysis, MERN Stack Developer 🚀 | Software Developer | Masters in CSE | Oracle CRM|CX Development
 
 👋 Hello! I'm Umer Abdullah, a passionate MERN Stack Developer based in Oulu, Finland. With a background in Computer Science and Engineering, I bring a strong foundation in software development to every project I undertake.
 
